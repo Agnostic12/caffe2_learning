@@ -1,0 +1,42 @@
+[33mcommit e9c33bb80baec8a82525c62dd2967b7acb7ccb6d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Agnostic12 <rbslibingnan@163.com>
+Date:   Thu Jan 10 00:38:54 2019 +0800
+
+    complete 1-MNIST and 2-LMDB
+
+[33mcommit a07a6e8d238bc0fbdf561c04322b2afcb296ebba[m
+Author: Agnostic12 <rbslibingnan@163.com>
+Date:   Thu Jan 10 00:14:28 2019 +0800
+
+    finish 1-MNIST example and 2-read lmdb
+
+[33mcommit aa716b451767f8cd05a1fe6dc3a2b701d5131458[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Agnostic12 <rbslibingnan@163.com>
+Date:   Tue Jan 8 11:23:57 2019 +0800
+
+    delete test
+
+[33mcommit f91e6bd702e9e627443b007a52fa5387e8c99d82[m
+Merge: b8d0b68 924b2f2
+Author: Agnostic12 <rbslibingnan@163.com>
+Date:   Tue Jan 8 11:21:30 2019 +0800
+
+    Merge branch 'master' of github.com:Agnostic12/caffe2_learning
+
+[33mcommit b8d0b684768ec5f0aa6576849b750eeaa04301b9[m
+Author: Agnostic12 <rbslibingnan@163.com>
+Date:   Tue Jan 8 11:18:39 2019 +0800
+
+    init2
+
+[33mcommit 924b2f28cc9cf1b2e270768ded7bb43a172b0162[m
+Author: Agnostic12 <rbslibingnan@163.com>
+Date:   Wed Dec 26 19:04:35 2018 -0500
+
+    mnist 181226_1904
+
+[33mcommit 8d168d3062d51a470d1516c6a0da241ff072dcff[m
+Author: Agnostic12 <rbslibingnan@163.com>
+Date:   Wed Dec 26 16:33:40 2018 -0500
+
+    a trial to commit MNIST example
